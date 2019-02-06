@@ -1,0 +1,12 @@
+C:\Users\Vidhya\source\repos\LearnSelenium\LearnSelenium\bin\Debug\LearnSelenium.exe.config
+C:\Users\Vidhya\source\repos\LearnSelenium\LearnSelenium\bin\Debug\LearnSelenium.exe
+C:\Users\Vidhya\source\repos\LearnSelenium\LearnSelenium\bin\Debug\LearnSelenium.pdb
+C:\Users\Vidhya\source\repos\LearnSelenium\LearnSelenium\bin\Debug\WebDriver.dll
+C:\Users\Vidhya\source\repos\LearnSelenium\LearnSelenium\bin\Debug\WebDriver.Support.dll
+C:\Users\Vidhya\source\repos\LearnSelenium\LearnSelenium\bin\Debug\WebDriver.xml
+C:\Users\Vidhya\source\repos\LearnSelenium\LearnSelenium\bin\Debug\WebDriver.Support.xml
+C:\Users\Vidhya\source\repos\LearnSelenium\LearnSelenium\obj\Debug\LearnSelenium.csproj.CoreCompileInputs.cache
+C:\Users\Vidhya\source\repos\LearnSelenium\LearnSelenium\obj\Debug\LearnSelenium.csproj.CopyComplete
+C:\Users\Vidhya\source\repos\LearnSelenium\LearnSelenium\obj\Debug\LearnSelenium.exe
+C:\Users\Vidhya\source\repos\LearnSelenium\LearnSelenium\obj\Debug\LearnSelenium.pdb
+C:\Users\Vidhya\source\repos\LearnSelenium\LearnSelenium\obj\Debug\LearnSelenium.csprojAssemblyReference.cache
